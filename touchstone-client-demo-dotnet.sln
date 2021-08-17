@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "touchstone-client-demo-dotnet", "touchstone-client-demo-dotnet\touchstone-client-demo-dotnet.csproj", "{1EC7BC09-6310-4F26-AD8A-F11BE56DE2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchstoneClient", "TouchstoneClient\TouchstoneClient.csproj", "{6A665EB1-B348-4E3C-8337-B90C69D6DFDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTouchstoneClient", "TestTouchstoneClient\TestTouchstoneClient.csproj", "{CA69B45E-8131-4025-9F91-936513063D83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC7BC09-6310-4F26-AD8A-F11BE56DE2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC7BC09-6310-4F26-AD8A-F11BE56DE2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC7BC09-6310-4F26-AD8A-F11BE56DE2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC7BC09-6310-4F26-AD8A-F11BE56DE2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A665EB1-B348-4E3C-8337-B90C69D6DFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A665EB1-B348-4E3C-8337-B90C69D6DFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A665EB1-B348-4E3C-8337-B90C69D6DFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A665EB1-B348-4E3C-8337-B90C69D6DFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA69B45E-8131-4025-9F91-936513063D83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA69B45E-8131-4025-9F91-936513063D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA69B45E-8131-4025-9F91-936513063D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA69B45E-8131-4025-9F91-936513063D83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7952A731-EF52-4C2D-9F5F-7748A8AAB7A8}
+	EndGlobalSection
+EndGlobal
