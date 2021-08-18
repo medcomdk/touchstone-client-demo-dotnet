@@ -9,3 +9,6 @@ or
 * Run the simple patient create program in the `touchstone-client-demo-dotnet` project e.g. against the [/FHIR4-0-1-Basic/P-R/Patient/Server Assigned Id/Patient-server-id-json](https://touchstone.aegis.net/touchstone/testscript?name=%2fFHIR4-0-1-Basic%2fP-R%2fPatient%2fServer+Assigned+Id%2fPatient-server-id-json)
 Touchstone Test Script
 
+## Video guide
+[![Alt text](https://img.youtube.com/vi/OMSNHQDpQfg/0.jpg)](https://www.youtube.com/watch?v=OMSNHQDpQfg)
+
